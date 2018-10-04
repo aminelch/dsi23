@@ -28,6 +28,3 @@ N'oublier de se placer dans le dossier approprié
 ## Executer son code 
 
 		java fichier 
-
-
-:fa-font:

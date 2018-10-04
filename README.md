@@ -2,4 +2,8 @@ Ce **dépôt** contient l'ensemble de mes **travaux Pratiques** durant l'année.
 
 Libre à vous de copier, cloner ou meme distribuer le contenu de ce dépôt.
 
+<<<<<<< HEAD
 ##- [java](https://github.com/aminelch/dsi23/tree/master/java) 
+=======
+##- [java](github.com/aminelch/dsi23/java) 
+>>>>>>> master
