@@ -28,7 +28,8 @@ N'oublier de se placer dans le dossier approprié
 	javac fichier.java
 
 ## Executer son code 
+
 		java fichier 
 
 
-
+:fa-font:
