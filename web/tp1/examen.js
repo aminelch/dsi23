@@ -36,6 +36,8 @@ function correction() {
     radioValidation(radioEelement1);
     radioValidation(radioEelement2);
 
+    // lbeqi kamlo enty y fares haha awka bqat fonction mtaa moy heki fiha somme o tchouf kol input chnaya l valeur mtaaou 
+    //bayelt ana ta ghdwa nkamel fih sinon rakah jawek hasel ;) 
     
 
 }
