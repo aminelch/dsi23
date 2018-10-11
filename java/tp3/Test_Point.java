@@ -13,11 +13,11 @@ public class Test_Point {
         p3.Affiche();
         System.out.println("\n --------------------------- \n");
         
-        // if(p1.Coincide(p3) == true){
-        //     System.out.println("Les 2 points p1 et p3 coincident");
-        // }else {
-        //     System.out.println("Les 2 points p1 et p3 ne coincident pas");
-        // }
+        if(p1.Coincide(p3) == true){
+            System.out.println("Les 2 points p1 et p3 coincident");
+        }else {
+            System.out.println("Les 2 points p1 et p3 ne coincident pas");
+        }
         
         System.out.println("\n --------------------------- \n");
         System.out.println("translation des point ");

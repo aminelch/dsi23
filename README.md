@@ -10,4 +10,4 @@ Libre à vous de copier, cloner ou meme distribuer le contenu de ce dépôt.
 
 ### 3. [Base de données](https:github.com/aminelch/dsi23/tree/master/db) 
 
-### 4. [WEB](https:github.com/aminelch/dsi23/tree/master/web) 
+### 4. [WEB](tree/master/web) 

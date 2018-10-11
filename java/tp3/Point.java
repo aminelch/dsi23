@@ -71,7 +71,7 @@ public class Point{
 		
     }
     public bool Coincide(Point p){
-        if(this.Ordonnee== p.Ordonnee && this.Abscisse==p.Abscisse ){
+        if((this.Ordonnee== p.Ordonnee) && (this.Abscisse==p.Abscisse) ){
          return true;
         }
         return false ; 
