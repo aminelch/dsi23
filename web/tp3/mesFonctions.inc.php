@@ -22,7 +22,7 @@ function conv($celsius){
 }
 
 /* 
-**Retourne le Factorielle d'un entier n 
+**Retourne le Factorielle d'un entier n  
 */
 function Factoriel($n) {
     return $n > 1 ? $n * Factoriel($n-1):1;
