@@ -9,4 +9,4 @@
  require "mesFonctions.inc.php";
 
 // test de fonction sommeSerie avec valeur aleatoire
- var_dump(sommeSerie(rand(1,10),rand(1,10)));
+ var_dump(sommeSerie(2, 3));

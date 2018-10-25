@@ -33,6 +33,6 @@ function Factoriel($n) {
 Retourne la somme de la série de terme général u n = x 2n + 1 /n!
 */ 
 function sommeSerie ($n, $d) {
-$resultat= pow(2,$d)* (2*$n)+1 / (Factoriel($n)) ;
+	$resultat= pow(2,$d)* (2*$n)+1 / (Factoriel($n)) ;
 return $resultat;
 }
