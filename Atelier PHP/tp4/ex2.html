@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ex2</title>
+</head>
+
+<body>
+    <form action="ex2.php" method="POST">
+        <fieldset>
+            <center>
+                <h3>Bon de commande </h3>
+            </center>
+            Nom du client <sup>*</sup> <input type="text" name="nom_client">
+
+            Produits <select name="produits">
+                <option value="Ordinateur">Ordinateur</option>
+                <option value="flash">Flash disque</option>
+                <option value="Souris">Souris</option>
+                <option value="Clavier">Clavier</option>
+            </select>
+            <br>
+            Gsm <input type="text" name="gsm" value="+216">
+            Quantité <input type="radio" name="quantite" value="1">1
+            <input type="radio" name="quantite" value="2">2
+            <input type="radio" name="quantite" value="3">3
+            <input type="radio" name="quantite" value="4">4
+            <br>
+            Adresse <input type="text" name="adresse">
+            Prix unitaire <input type="text" name="prixunitaire">
+            <br>
+            <div style="float:right">
+                <input type="checkbox" id="afficher" name="afficher" value="Afficher la facture">Afficher la facture
+            </div>
+            <br><br>
+  
+
+            <input type="submit" value="Envoyer la commande">
+        </fieldset>
+
+
+
+    </form>
+
+</body>
+
+</html>
